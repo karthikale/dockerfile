@@ -1,0 +1,1 @@
+Run yum install nginx -y
